@@ -5,7 +5,6 @@ import './index.css';
 import App from './App';
 import {ProductProvider} from './Context';
 import * as serviceWorker from './serviceWorker';
-import Product from './components/Product';
 
 ReactDOM.render(
   <ProductProvider>
